@@ -23,20 +23,12 @@
       "password": "SoloPlayz"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+  "enabled": true,
+  "sneak": true,
+  "jump": true,
+  "rotate": true,
+  "swing-arm": true,
     },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
-      ]
-    },
-    "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
@@ -81,7 +73,4 @@
       "chat": false
     }
   },
-  "chat": {
-    "respond": true
-  }
 }
